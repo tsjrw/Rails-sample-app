@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 # Ruby on Rails Tutorial sample application
@@ -41,3 +42,7 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
+=======
+# Rails-ample-app
+Learnenough tutorial
+>>>>>>> 5131c4752a1e2f2129d67a733d8842c0cdfb2c51
