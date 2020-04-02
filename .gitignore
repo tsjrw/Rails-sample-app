@@ -103,3 +103,5 @@ yarn-debug.log*
 /storage/*
 !/storage/.keep
 >>>>>>> 5131c4752a1e2f2129d67a733d8842c0cdfb2c51
+# Ignore uploaded test images.
+/public/uploads
